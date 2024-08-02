@@ -1,6 +1,6 @@
 name = "aws_c_sdkutils_jll"
 uuid = "1282aa60-004d-510b-9f52-12498d409daa"
-version = "0.1.16+0"
+version = "0.1.17+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
