@@ -1,135 +1,135 @@
 [[aws_c_sdkutils]]
 arch = "aarch64"
-git-tree-sha1 = "703600a239f419a1a002dacbd3b0b3312c5e840b"
+git-tree-sha1 = "4e1f8c0e9c34dd36443cd6b6ec034c73efe8b71e"
 os = "macos"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "b88e069cd98f1adb7cc8d4260e3da345bde5006f116e84cd54441363ae86ad7c"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.aarch64-apple-darwin.tar.gz"
+    sha256 = "d9f4438db507fb5d0b2ae5c2e211e68eec444fd1db528f7a8e71441936119c32"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.aarch64-apple-darwin.tar.gz"
 [[aws_c_sdkutils]]
 arch = "aarch64"
-git-tree-sha1 = "fcb0f392a3343d90f781123e08ac334a07d0951f"
+git-tree-sha1 = "b7eac1d03350c5e4d4a0d834adb72224ea466520"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "0bae979360f049ecbfb7ed12a302eb229219f2c789e819d720675ff76135280d"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.aarch64-linux-gnu.tar.gz"
+    sha256 = "b1e1496b56223f58068def5c373a8c05342d3412b81dc0b4d9429693c672778b"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.aarch64-linux-gnu.tar.gz"
 [[aws_c_sdkutils]]
 arch = "aarch64"
-git-tree-sha1 = "5f15fe9b78b34d4a504a92270cddf1dba3005789"
+git-tree-sha1 = "23ef1198f8863d3a4c6b09f62501a32ecbd00d6f"
 libc = "musl"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "9110cf4b26d78ab7adbb6a18c62434b330e23dd522dc0028557af75be7c1c02f"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.aarch64-linux-musl.tar.gz"
+    sha256 = "b604650ae91d5318c67416a08eaf1ac2652b2cd7c0c61843f1969578176e38b5"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.aarch64-linux-musl.tar.gz"
 [[aws_c_sdkutils]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7f1a910d9da8215c694a2b41287f1ab954da1b73"
+git-tree-sha1 = "a50f5346b7766db3a348aa1b1e573096f362a755"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "f27a1704a65f286437023b64aff2bba970928f7d84997e92cd794feb1002e5c7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "f275c436a01c86aa53a5b25f6c62a1c24e60f9a6ef985aa51fcbf9521b953912"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.armv6l-linux-gnueabihf.tar.gz"
 [[aws_c_sdkutils]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "57e3a1ff9ad9fe33dbaea59d0b6d1c715afd23aa"
+git-tree-sha1 = "b6486c530c34330cc9733fbf07f1e080c0dbf76d"
 libc = "musl"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "73bc1ad19ec486cdc1b12413fa57068c453205cf8eb85bb6888b9a790edd84ae"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "722dff9d3b97dd867a90c52f7c444fd51095896b0469aa7b8e158e207486a0ce"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.armv6l-linux-musleabihf.tar.gz"
 [[aws_c_sdkutils]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "11d743ee4332707997fba882b76ba23ae5f29a1d"
+git-tree-sha1 = "94c538131cf358398cf76bfd9aedf33e4a32d934"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "b22ca87f7fc7c5284ba5bdab708cc9b92c855a8b099460d51acd41eb323cdde0"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "3ab87eb19f07711c0a107157e81b5345fb33d2747a470596532e87d25c258819"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.armv7l-linux-gnueabihf.tar.gz"
 [[aws_c_sdkutils]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ec386a3a80f52d6ed2cfc6c11ca396429005c619"
+git-tree-sha1 = "3b37cd2ed95250b64c27d6125313fc9011ee4866"
 libc = "musl"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "a81c9b7a483645add830c789b4c8693ce8c24923033dd42fad99bf9b407bc535"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "dfa5c4aab82ff9009ad35da1b160ef0f7ee80bac243fe4d712f7568e9ec74b19"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.armv7l-linux-musleabihf.tar.gz"
 [[aws_c_sdkutils]]
 arch = "i686"
-git-tree-sha1 = "eeb7f604457ab1758b596cf6ebfa25d7822bd997"
+git-tree-sha1 = "20e23863f9f6fc603e567aa4c901e8e3f99936dd"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "ab25e13b48587f7d24878da140cdc7b0254ff076596fd55186c140cc18546154"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.i686-linux-gnu.tar.gz"
+    sha256 = "40b1c7f254c04134ee1c23aebe6b3b14784b793c7b4811f4ebe54f88a0b96e05"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.i686-linux-gnu.tar.gz"
 [[aws_c_sdkutils]]
 arch = "i686"
-git-tree-sha1 = "f9bfbc2d0bbed1951e5997ada953f80cc53846e8"
+git-tree-sha1 = "71e1994999650261bb8df7c2abeae2b99d8ab073"
 libc = "musl"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "8587cd37e4e8eddd103e364d7a621a0c15d9e707bbdb1913075bb919999072f2"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.i686-linux-musl.tar.gz"
+    sha256 = "5bf430a23942ea32b3dbd8c439323297bba03e2e348500ff65c91a4f9f2d0d16"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.i686-linux-musl.tar.gz"
 [[aws_c_sdkutils]]
 arch = "powerpc64le"
-git-tree-sha1 = "188023ab9ebafb6d3e96d655631019cab483198d"
+git-tree-sha1 = "5c4e7a543eef142b774b5a71d2084c25141950c3"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "b254654292924eedccf16f6877234abd4c0435c5827af11c9088d59ce51ddb2a"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "961c44f083932c91fab9d01482b4b0380c3ff43b0451690820694e462b6efce6"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.powerpc64le-linux-gnu.tar.gz"
 [[aws_c_sdkutils]]
 arch = "x86_64"
-git-tree-sha1 = "5d8b9480d24a3f90ed8fd321b4f03eac9af0a53a"
+git-tree-sha1 = "bef2dd35b852187350f72b21552d2836c68f8d39"
 os = "macos"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "07abdd4611f3825f991d2f3d7c0fb64f075219bd7a8a9e8ff9493ef8e9e23af7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.x86_64-apple-darwin.tar.gz"
+    sha256 = "9a09f14483b944c73b79b8549faec92fa36713e5949530026bca53e7d3374ee0"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.x86_64-apple-darwin.tar.gz"
 [[aws_c_sdkutils]]
 arch = "x86_64"
-git-tree-sha1 = "fcad7ec8a4712f235458cda92689ede349f53946"
+git-tree-sha1 = "276d3d6d86bc40279e2668ce48e1e27943638c16"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "49fd112c49416abb7032cc2756fe36e4ab6d8fe7b144f09a0d6825fe1e7a17fa"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.x86_64-linux-gnu.tar.gz"
+    sha256 = "4ef8f2484cec5103332087a8b58d03135f56f634f5081a626da6c60c3b222d42"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.x86_64-linux-gnu.tar.gz"
 [[aws_c_sdkutils]]
 arch = "x86_64"
-git-tree-sha1 = "9a7bddc77face42207a8d2ec984e02c7516c6bcf"
+git-tree-sha1 = "b81be0435cc9b4c44733b6d1c78b3b1256c4010d"
 libc = "musl"
 os = "linux"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "40284c846b1ca2d1658519dca6149392ca2f78673dcb543baa2cbcf96609c59f"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.x86_64-linux-musl.tar.gz"
+    sha256 = "ac36e7c3b8508a72d4547c0a5dfd4a61397cdf5dba7ffc3aeeccc869d5a53997"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.x86_64-linux-musl.tar.gz"
 [[aws_c_sdkutils]]
 arch = "x86_64"
-git-tree-sha1 = "c4e75af56b349d86ae06c83689135843c364889f"
+git-tree-sha1 = "a0703dbffa434acae075d775b86d0bcb87825efa"
 os = "freebsd"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "6b9b44785a83a143b4f29d202ba7204dea5cf16544b6edc330dfd39b1c31d8ff"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ff706e379405e0de2070aa3430449dca643ac806820cd5b8b18efc9d49cbcab1"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.x86_64-unknown-freebsd.tar.gz"
 [[aws_c_sdkutils]]
 arch = "x86_64"
-git-tree-sha1 = "83c0d2f9150b4ded564cc304393508f31e5f876c"
+git-tree-sha1 = "e65498df51076eb67014a43671691d1359583332"
 os = "windows"
 
     [[aws_c_sdkutils.download]]
-    sha256 = "6a5f145106dacf80bcb4da718889161b4cdbbc9fe8969868d3c8be199181897f"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.17+0/aws_c_sdkutils.v0.1.17.x86_64-w64-mingw32.tar.gz"
+    sha256 = "255fc619758ce4a83503d608cefa9108dfe6795061640775d77669560e0c5753"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_sdkutils_jll.jl/releases/download/aws_c_sdkutils-v0.1.18+0/aws_c_sdkutils.v0.1.18.x86_64-w64-mingw32.tar.gz"
